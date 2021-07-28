@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DavidHWagnon
 - 👀 I’m interested in pursuing a career in Software Development
 - 🌱 I’m currently in a Web Development Class at CodeUp
-- 💞️ I’m looking to collaborate on nothing at the moment!
 - 📫 How to reach me david.wagnon02@gmail.com
 
 <!---
