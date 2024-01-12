@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidHWagnon
-- 👀 I’m interested in pursuing a career in Software Development
-- 🌱 I’m currently in a Web Development Class at CodeUp
+- 👀 I’m currently an Associate Software Engineeer!
+- 🌱 I’m always interested in expanding my knowledge of all tech related things
 - 📫 How to reach me david.wagnon02@gmail.com
 
 <!---
