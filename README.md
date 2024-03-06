@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHWagnon)](https://github.com/DavidHWagnon/github-readme-stats)
+
 <!--START_SECTION:waka-->
 
 ```txt
