@@ -1,4 +1,4 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DavidHWagnon)](https://github.com/DavidHWagnon/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@)](https://github.com/DavidHWagnon/github-readme-stats)
 
 
 - 👋 Hi, I’m @DavidHWagnon
