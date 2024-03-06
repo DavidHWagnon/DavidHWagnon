@@ -1,3 +1,6 @@
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+
 - 👋 Hi, I’m @DavidHWagnon
 - 👀 I’m currently an Associate Software Engineeer!
 - 🌱 I’m always interested in expanding my knowledge of all tech related things
