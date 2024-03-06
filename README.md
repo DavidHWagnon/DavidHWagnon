@@ -1,7 +1,6 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidHWagnon)](https://github.com/DavidHWagnon/github-readme-stats)
 
 
-
 - 👋 Hi, I’m @DavidHWagnon
 - 👀 I’m currently an Associate Software Engineeer!
 - 🌱 I’m always interested in expanding my knowledge of all tech related things
