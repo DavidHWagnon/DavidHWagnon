@@ -1,11 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2024 - To: 17 July 2024
+From: 12 July 2024 - To: 19 July 2024
 
-Total Time: 0 secs
+Total Time: 10 hrs 10 mins
 
-No activity tracked
+PHP          4 hrs 46 mins   >>>>>>>>>>>>-------------   46.22 %
+YAML         1 hr 21 mins    >>>----------------------   13.21 %
+JavaScript   57 mins         >>-----------------------   09.28 %
+TypeScript   55 mins         >>-----------------------   08.91 %
+Markdown     41 mins         >>-----------------------   06.73 %
+JSON         38 mins         >>-----------------------   06.23 %
+INI          24 mins         >------------------------   03.96 %
+Bash         17 mins         >------------------------   02.75 %
+Other        9 mins          -------------------------   01.52 %
+HTML         7 mins          -------------------------   01.18 %
 ```
 
 <!--END_SECTION:waka-->
