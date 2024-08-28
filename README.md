@@ -1,17 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2024 - To: 26 August 2024
+From: 20 August 2024 - To: 27 August 2024
 
-Total Time: 56 mins
+Total Time: 0 secs
 
-YAML         45 mins         >>>>>>>>>>>>>>>>>>>>-----   79.26 %
-Markdown     5 mins          >>-----------------------   09.37 %
-JavaScript   2 mins          >------------------------   04.90 %
-JSON         2 mins          >------------------------   03.72 %
-Other        1 min           >------------------------   02.13 %
-INI          0 secs          -------------------------   00.54 %
-PHP          0 secs          -------------------------   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
