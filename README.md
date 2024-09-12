@@ -1,11 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 26 mins
 
-No activity tracked
+YAML         53 mins         >>>>>>>>>>>>>>>----------   60.90 %
+JSON         22 mins         >>>>>>-------------------   25.52 %
+TypeScript   8 mins          >>>----------------------   10.23 %
+Markdown     1 min           -------------------------   01.83 %
+SQL          0 secs          -------------------------   00.96 %
+Other        0 secs          -------------------------   00.54 %
+TSConfig     0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
