@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @DavidHWagnon
-- 👀 I’m currently an Associate Software Engineeer!
+- 👀 I’m currently a Software Engineeer!
 - 🌱 I’m always interested in expanding my knowledge of all tech related things
 - 📫 How to reach me david.wagnon02@gmail.com
 
